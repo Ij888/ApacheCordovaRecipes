@@ -29,7 +29,7 @@ body {
     background-image:-webkit-linear-gradient(top, #A7A7A7 0%, #E4E4E4 51%);
     background-image:-ms-linear-gradient(top, #A7A7A7 0%, #E4E4E4 51%);
     background-image:-webkit-gradient(
-        linear,
+        linear, 
         left top,
         left bottom,
         color-stop(0, #A7A7A7),
