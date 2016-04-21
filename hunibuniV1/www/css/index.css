@@ -23,7 +23,8 @@ img{width: 100%;}
 	
 }
 
-.prel{position: relative;}
+.options{border: 2px solid grey; background-color: #b2b2b2; margin-bottom: 3px;}
+
 .testcase{
 	background: #555; 
 	border-right: 3px solid red;
