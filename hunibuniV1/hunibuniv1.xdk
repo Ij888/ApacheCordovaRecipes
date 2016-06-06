@@ -6,7 +6,7 @@
       "projectTypeName": "com.intel.xdk.projecttype.jsapp",
       "src": "",
       "projectGuid": "0dc97f03-9f9a-4dc8-868e-83414f297928",
-      "lastModifiedDate": 1461343630354,
+      "lastModifiedDate": 1462361660180,
       "creationDate": 1461343590389
     },
     "sourceDirectory": "www",
@@ -146,7 +146,7 @@
         "runtime_": "W3C",
         "name_": "WebApp",
         "preferences_": {},
-        "isActive_": false,
+        "isActive_": true,
         "appName_": "hunibuniv1",
         "appID_": "not.yet.specified",
         "appAccess_": {
