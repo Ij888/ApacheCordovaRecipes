@@ -16,6 +16,8 @@
  * specific language governing permissions and limitations
  * under the License.
  */
+
+/*
 var app = {
     // Application Constructor
     initialize: function() {
@@ -49,3 +51,10 @@ var app = {
 };
 
 app.initialize();
+*/
+
+$(document).on("pagecreate","#pageone",function(){
+    $("p").on("swipe",function(){
+        $("span").text("Swipe detected!");
+    });     
+});
