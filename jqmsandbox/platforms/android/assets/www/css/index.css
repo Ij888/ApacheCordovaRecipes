@@ -1,0 +1,47 @@
+body {
+  padding-top: ;
+}
+
+h2{margin-bottom: 25px;}
+.jumbotron{
+	background: url(../img/algo.jpg) no-repeat top center;
+	background-size: cover;
+	height:100%;
+	/*color:#fff;
+	overflow:none;*/
+	margin-bottom: 0px; /*removed the blank space under the JMBTRN*/
+}
+
+.sandm{background-color: #2d2d2d; padding:25px; color: white; font-size: 30px;} 
+
+.bg1{
+	background-color: rgba(200, 200, 200, 0.75);
+	display: inline-block;
+}
+
+img{width: 75%; margin-bottom: 15px;}
+
+.ha-wrappr{
+	text-align: center;
+	
+}
+
+.paddy-top{
+    margin-top: 100px;
+}
+
+.options{border: 1px solid grey; background-color: #b2b2b2; margin-left: 1px;}
+
+.testcase{
+	background: #555; 
+	border-right: 3px solid red;
+	border-left: 3px solid yellow;
+	border-top: 3px solid green;
+	border-bottom: 3px solid blue;
+}
+
+.divbox{
+	height: 140px;
+	background: red;
+	padding: 10px 0;
+	}
