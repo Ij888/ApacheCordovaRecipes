@@ -3,8 +3,10 @@
 }
 
 .marg-top{
-    margin-top: 40px;
+    margin-top: 50px;
 }
+
+h2{margin-bottom: 25px;}
 
 .jumbotron{
 	background: /*url(../img/algo.jpg)no-repeat top center*/ #555;
@@ -13,6 +15,13 @@
 	/*color:#fff;
 	overflow:none;*/
 	margin-bottom: 0px; /*removed the blank space under the JMBTRN*/
+}
+
+.sandm{background-color: #2d2d2d; padding:25px; color: white; font-size: 30px;} 
+
+.bg1{
+    background-color: rgba(200, 200, 200, 0.75);
+    display: inline-block;
 }
 
 img{width: 75%; margin-bottom: 15px;}
@@ -32,4 +41,4 @@ img{width: 75%; margin-bottom: 15px;}
 	background: red;
 	padding: 10px 0;
 	}
-    
+        
