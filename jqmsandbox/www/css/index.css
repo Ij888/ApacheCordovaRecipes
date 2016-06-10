@@ -32,4 +32,8 @@ img{width: 75%; margin-bottom: 15px;}
 	background: red;
 	padding: 10px 0;
 	}
+
+.ui-page-theme-a a:visited, html .ui-bar-a a:visited, html .ui-body-a a:visited, html body .ui-group-theme-a a:visited, a.ui-link {
+    text-decoration: none;
+}
     
